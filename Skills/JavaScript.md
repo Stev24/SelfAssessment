@@ -5,17 +5,17 @@
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt`
+  - `BigInt` +
   - `String`: 🖐️ used
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
+  - `Symbol` +
+  - `Infinity` +
+  - `NaN` +
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
-  - `instanceof`
+  - `instanceof` +
   - `...spread`: 🖐️ used
-  - `...rest`
+  - `...rest` +
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
   - Generators
@@ -28,32 +28,32 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`
-  - Getters and setters
+  - `window` +
+  - Getters and setters +
   - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - `prototype` +
+  - Equality operators *
+  - Logical operators *
+  - Logical Assignment *
+  - Bitwise operators +
+  - Ternary operator *
   - `void`: 🖐️ used
-  - `yield`
+  - `yield` 
   - `await`: 🖐️ used
   - Template literal
   - Strict mode
-  - Hoisting
+  - Hoisting +
   - `delete`
   - `in`
   - `super`: 🖐️ used
-  - `eval`
-  - `static`
+  - `eval` *
+  - `static` +
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`
   - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
+  - Sealing properties +
+  - Freezing properties +
+  - Computed properties 
   - Instance class fields
   - Static class fields
   - Private class fields: 🖐️ used
@@ -85,25 +85,25 @@
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
   - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - `Function.prototype.call` +
+  - `Function.prototype.bind` +
+  - `Function.prototype.apply` +
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - Weak collections
+  - Weak collections 
   - Typed arrays
   - Mixins
-  - `Object.assign`
+  - `Object.assign` +
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
-  - `Error`
+  - `RegExp` *
+  - `Date` *
+  - `Math` *
+  - `Reflect` 
+  - `Error` *
   - `Atomics`
   - `JSON`: 🖐️ used
   - `WeakRef`
@@ -113,7 +113,7 @@
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8
+  - V8 +
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
