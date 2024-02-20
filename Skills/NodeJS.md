@@ -4,26 +4,26 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases +
-  - Event loop microtasks and macrotasks +
-  - Garbage collection +
-  - Node.js LTS schedule +
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules *
-  - ECMAScript modules *
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json` *
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
   - DI containers
-  - Coupling and cohesion +
+  - Coupling and cohesion: 🎓 known
   - Framework agnostic approach
 - Environment
   - Command line arguments
@@ -31,12 +31,12 @@
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch *
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
-  - Streams API +
+  - Streams API: 🎓 known
   - Web Streams API
   - Crypto API
-  - Password hashing with crypto.scrypt *
+  - Password hashing with crypto.scrypt: 🖐️ used
   - Web Crypto API
   - File system API (sync and async)
   - Copy folder recursively
@@ -57,7 +57,7 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer` +
+  - Blob, File, Buffer, module `node:buffer`: 🎓 known
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -65,17 +65,17 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API *
+  - Fetch API: 🖐️ used
   - IncomingMessage
   - HTTP(S)
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket *
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST *
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
@@ -98,7 +98,7 @@
   - Writable
   - Transform
   - Back pressure
-  - Buffer *
+  - Buffer: 🖐️ used
   - Console
   - Inspector
 - Data access
@@ -107,13 +107,13 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD *
+  - CRUD: 🖐️ used
   - DTO
 - Error handling and debugging
   - `Error`
   - `error.cause`
-  - `error.code` +
-  - `error.message` *
+  - `error.code`: 🎓 known
+  - `error.message`: 🖐️ used
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
@@ -121,7 +121,7 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks +
+  - Memory leaks: 🎓 known
   - Resource leaks
   - Data race
 - Integrations and bindings

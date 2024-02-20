@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop +
-  - `try..catch` *
-  - Non-blocking 
-  - Async I/O +
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
+  - Non-blocking
+  - Async I/O: 🎓 known
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -12,8 +12,8 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv +
-  - Race conditions +
+  - libuv: 🎓 known
+  - Race conditions: 🎓 known
   - Dead locks
   - Live locks
   - Concurrent programming
@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks *
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise *
-  - Async/await *
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -59,9 +59,9 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers *
-  - `setImmediate` *
-  - `nextTick` 
+  - Timers: 🖐️ used
+  - `setImmediate`: 🖐️ used
+  - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all *
-  - Promise.allSettled *
-  - Promise.race +
-  - Promise.any +
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🖐️ used
+  - Promise.race: 🎓 known
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API

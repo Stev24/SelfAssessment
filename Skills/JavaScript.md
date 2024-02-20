@@ -5,17 +5,17 @@
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt` +
+  - `BigInt`: 🎓 known
   - `String`: 🖐️ used
-  - `Symbol` +
-  - `Infinity` +
-  - `NaN` +
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
-  - `instanceof` +
+  - `instanceof`: 🎓 known
   - `...spread`: 🖐️ used
-  - `...rest` +
+  - `...rest`: 🎓 known
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
   - Generators
@@ -28,32 +28,32 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window` +
-  - Getters and setters +
+  - `window`: 🎓 known
+  - Getters and setters: 🎓 known
   - `__proto__`
-  - `prototype` +
-  - Equality operators *
-  - Logical operators *
-  - Logical Assignment *
-  - Bitwise operators +
-  - Ternary operator *
+  - `prototype`: 🎓 known
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
-  - `yield` 
+  - `yield`
   - `await`: 🖐️ used
   - Template literal
   - Strict mode
-  - Hoisting +
+  - Hoisting: 🎓 known
   - `delete`
   - `in`
   - `super`: 🖐️ used
-  - `eval` *
-  - `static` +
+  - `eval`: 🖐️ used
+  - `static`: 🎓 known
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`
   - Property descriptors
-  - Sealing properties +
-  - Freezing properties +
-  - Computed properties 
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties
   - Instance class fields
   - Static class fields
   - Private class fields: 🖐️ used
@@ -85,25 +85,25 @@
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
   - Functional object
-  - `Function.prototype.call` +
-  - `Function.prototype.bind` +
-  - `Function.prototype.apply` +
+  - `Function.prototype.call`: 🎓 known
+  - `Function.prototype.bind`: 🎓 known
+  - `Function.prototype.apply`: 🎓 known
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - Weak collections 
+  - Weak collections
   - Typed arrays
   - Mixins
-  - `Object.assign` +
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp` *
-  - `Date` *
-  - `Math` *
-  - `Reflect` 
-  - `Error` *
+  - `RegExp`: 🖐️ used
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
+  - `Reflect`
+  - `Error`: 🖐️ used
   - `Atomics`
   - `JSON`: 🖐️ used
   - `WeakRef`
@@ -113,7 +113,7 @@
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8 +
+  - V8: 🎓 known
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used

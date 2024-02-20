@@ -13,7 +13,7 @@
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic +
+  - Framework-agnostic: 🎓 known
   - Code coverage
   - Cohesion
   - Coupling
@@ -45,7 +45,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML +
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -55,9 +55,9 @@
   - On-premises
   - IaaS
   - PaaS
-  - SaaS +
+  - SaaS: 🎓 known
   - FaaS clouds
-  - Serverless +
+  - Serverless: 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -72,8 +72,8 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code +
-  - No-code +
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
   - ACID
