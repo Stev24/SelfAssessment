@@ -39,39 +39,39 @@
   - Scalar
   - Literal
   - Expression
-  - Heap
+  - Heap +
   - Function
   - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
+  - Method *
+  - Class *
+  - Prototype *
+  - Event 
   - Type
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
+  - Conditions *
+  - Loops *
+  - Assignment *
+  - Regular expression *
+  - Interface *
+  - Namespaces +
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case *
+  - Snake case *
+  - Kebab case +
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types *
+  - Reference types *
   - Type systems
   - Strong typing
   - Weak typeing
-  - Duck typing
+  - Duck typing +
   - Static typing
   - Dynamic typing
   - Nominal typing
@@ -84,14 +84,14 @@
   - Signature
   - Argument
   - Parameter
-  - Pure function
+  - Pure function *
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure *
   - Partial application
   - Currying
-  - Higher order
-  - Recursion
+  - Higher order *
+  - Recursion *
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array *
   - Structure
   - Record
-  - Enum
+  - Enum *
   - Instance
-  - Cbject
+  - Cbject *
   - Collection
   - Set
   - Hash table
@@ -127,26 +127,26 @@
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
-  - JSON
+  - String parsing *
+  - JSON *
   - JSON5
   - YAML
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
+  - DNS *
+  - CDN *
+  - CORS *
+  - IPv4 *
+  - IPv6 * 
   - NAT
-  - URL
+  - URL *
   - URN
-  - URI
+  - URI *
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
+  - Compiler +
+  - Just-in-time compilation +
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Transpiler *
+  - Linter *
   - Polyfill
   - Interpreter
   - Linker
@@ -161,11 +161,11 @@
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review *
   - Exception
   - Unittesting
-  - git
-  - Hithub
+  - git *
+  - Hithub *
   - Docker
   - Kubernetes
   - GCC
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti +
   - Silver bullet
   - Not invented here
   - Dead code
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII +
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 *
+  - ECMA *
   - ICANN
   - ISO
-  - MIME
+  - MIME *
   - OWASP
-  - UTF-8
+  - UTF-8 *
   - W3C
   - ODMG

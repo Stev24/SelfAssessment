@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types +
   - Performance tuning
-  - Migrations
+  - Migrations +
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery *
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store *
   - Tuple store
   - Graph databases
   - Object databases
@@ -25,8 +25,8 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Promary keys
-  - Foreign keys
+  - Promary keys *
+  - Foreign keys *
   - Transactions
   - Views
   - Subqueries
@@ -36,54 +36,54 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `SELECT` *
+  - `INSERT` *
+  - `UPDATE` * 
+  - `DELETE` *
+  - `LIMIT` * 
+  - `OFFSET` +
+  - `ORDER BY` *
+  - `GROUP BY` +
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
+  - `EXISTS` +
+  - `JOIN` +
+  - `INNER JOIN` *
+  - `LEFT JOIN` *
+  - `RIGHT JOIN` *
+  - `UNION` +
+  - `DISTINCT` +
+  - `WHERE` *
+  - `LIKE` *
+  - `IN` +
+  - `BETWEEN` *
+  - `CREATE TABLE` *
+  - `ALTER TABLE` *
+  - `DROP TABLE` *
+  - `PRIMARY KEY` *
+  - `FOREIGN KEY`*
+  - `CHECK` +
+  - `DEFAULT` +
   - `INDEX`
-  - `UNIQUE`
+  - `UNIQUE` *
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
-  - MariaDB
+  - PostgreSQL *
+  - Oracle +
+  - MySQL *
+  - MariaDB +
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB *
   - Memcached
   - Riak
   - DB2
   - SQLite
   - DynamoDB
-  - Firebase
+  - Firebase *
 - Data engineering
   - Data warehousing
   - Business intelligence
