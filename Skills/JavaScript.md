@@ -1,29 +1,29 @@
 ## JavaScript
 
 - Language
-  - `Object` *
-  - `Function` *
-  - `Boolean` *
-  - `Number` *
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`
-  - `String` *
+  - `String`: 🖐️ used
   - `Symbol`
   - `Infinity`
   - `NaN`
-  - `undefined` *
-  - `null` * 
-  - `this` * 
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
   - `instanceof`
-  - `...spread` * 
+  - `...spread`: 🖐️ used
   - `...rest`
-  - `typeof` * 
-  - Destructuring * 
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
   - Generators
   - Iterators
   - Async generator
   - Async iterator
-  - Chaining *
-  - Optional chaining * 
+  - Chaining: 🖐️ used
+  - Optional chaining: 🖐️ used
   - IIFE
   - Async IIFE
   - `global`
@@ -37,18 +37,18 @@
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void` *
+  - `void`: 🖐️ used
   - `yield`
-  - `await` *
+  - `await`: 🖐️ used
   - Template literal
   - Strict mode
   - Hoisting
   - `delete`
   - `in`
-  - `super` *
+  - `super`: 🖐️ used
   - `eval`
   - `static`
-  - `Number.parseInt` *
+  - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
@@ -56,43 +56,43 @@
   - Computed properties
   - Instance class fields
   - Static class fields
-  - Private class fields *
-  - Private class methods *
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
-  - `if` * 
-  - `while` *
-  - `do..while` *
-  - `for` *
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
   - `for..in`
   - `for..of`
   - `for await`
-  - `throw` *
-  - `break` *
-  - `continue` *
-  - `import` * 
-  - `export` *
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
-  - `try..catch` *
-  - `switch` * 
-  - `class`  *
-  - `extends` *
-  - `with` 
-  - `new` * 
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
+  - `with`
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function *
-  - Async function  *
-  - Function declaration * 
-  - Function expression *
-  - Default parameters *
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` *
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` *
-  - `Map` *
-  - `Set` *
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
   - Weak collections
   - Typed arrays
   - Mixins
@@ -105,17 +105,17 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON` * 
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` *
-  - `console` *
-  - Timers *
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
   - V8
-  - Node.js *
-  - npm *
-  - prettier *
-  - MDN *
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39
