@@ -1,8 +1,8 @@
 ## JavaScript
 
 - Language
-  - `Object` used
-  - `Function` used
+  - `Object` *
+  - `Function` *
   - `Boolean` *
   - `Number` *
   - `BigInt`
