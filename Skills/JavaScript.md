@@ -13,9 +13,9 @@
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
-  - `instanceof`: 🎓 known
+  - `instanceof`: u
   - `...spread`: 🖐️ used
-  - `...rest`: 🎓 known
+  - `...rest`: u
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
   - Generators: 👂 heard
@@ -40,7 +40,7 @@
   - `void`: 🖐️ used
   - `yield`: 👂 heard
   - `await`: 🖐️ used
-  - Template literal
+  - Template literal:  u
   - Strict mode: 🖐️ used
   - Hoisting: 🎓 known
   - `delete`: 🖐️ used
@@ -95,10 +95,10 @@
   - `Set`: 🖐️ used
   - Weak collections: 👂 heard
   - Typed arrays
-  - Mixins: 👂 heard
+  - Mixins: k
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
-  - `Proxy`: 👂 heard
+  - `Proxy`: k
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
