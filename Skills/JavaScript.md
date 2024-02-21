@@ -13,24 +13,24 @@
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
-  - `instanceof`: 🎓 known
+  - `instanceof`: u
   - `...spread`: 🖐️ used
-  - `...rest`: 🎓 known
+  - `...rest`: u
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
-  - Generators h
-  - Iterators h
-  - Async generator h
-  - Async iterator h
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
+  - Async generator: 👂 heard
+  - Async iterator: 👂 heard
   - Chaining: 🖐️ used
   - Optional chaining: 🖐️ used
-  - IIFE u
-  - Async IIFE u
-  - `global` k
-  - `globalThis` k
+  - IIFE: 🖐️ used
+  - Async IIFE: 🖐️ used
+  - `global`: 🎓 known
+  - `globalThis`: 🎓 known
   - `window`: 🎓 known
   - Getters and setters: 🎓 known
-  - `__proto__` h
+  - `__proto__`: 👂 heard
   - `prototype`: 🎓 known
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
@@ -38,24 +38,24 @@
   - Bitwise operators: 🎓 known
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
-  - `yield` h
+  - `yield`: 👂 heard
   - `await`: 🖐️ used
-  - Template literal
-  - Strict mode u
+  - Template literal:  u
+  - Strict mode: 🖐️ used
   - Hoisting: 🎓 known
-  - `delete` u
-  - `in` h
+  - `delete`: 🖐️ used
+  - `in`: 👂 heard
   - `super`: 🖐️ used
   - `eval`: 🖐️ used
   - `static`: 🎓 known
   - `Number.parseInt`: 🖐️ used
-  - `Number.parseFloat` h
-  - Property descriptors h
+  - `Number.parseFloat`: 👂 heard
+  - Property descriptors: 👂 heard
   - Sealing properties: 🎓 known
   - Freezing properties: 🎓 known
-  - Computed properties h
-  - Instance class fields k
-  - Static class fields k
+  - Computed properties: 👂 heard
+  - Instance class fields: 🎓 known
+  - Static class fields: 🎓 known
   - Private class fields: 🖐️ used
   - Private class methods: 🖐️ used
 - Statements
@@ -63,20 +63,20 @@
   - `while`: 🖐️ used
   - `do..while`: 🖐️ used
   - `for`: 🖐️ used
-  - `for..in` u
-  - `for..of` u
-  - `for await` h
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 👂 heard
   - `throw`: 🖐️ used
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
   - `import`: 🖐️ used
   - `export`: 🖐️ used
-  - `label` h
+  - `label`: 👂 heard
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
   - `extends`: 🖐️ used
-  - `with` h
+  - `with`: 👂 heard
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
@@ -84,7 +84,7 @@
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
-  - Functional object h
+  - Functional object: 👂 heard
   - `Function.prototype.call`: 🎓 known
   - `Function.prototype.bind`: 🎓 known
   - `Function.prototype.apply`: 🎓 known
@@ -93,12 +93,12 @@
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - Weak collections h
-  - Typed arrays 
-  - Mixins h
+  - Weak collections: 👂 heard
+  - Typed arrays
+  - Mixins: k
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
-  - `Proxy` h
+  - `Proxy`: k
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
@@ -106,9 +106,9 @@
   - `Error`: 🖐️ used
   - `Atomics`
   - `JSON`: 🖐️ used
-  - `WeakRef` k
-  - `FinalizationRegistry` k
-  - `Intl` h 
+  - `WeakRef`: 🎓 known
+  - `FinalizationRegistry`: 🎓 known
+  - `Intl`: 👂 heard
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
   - Timers: 🖐️ used
@@ -118,4 +118,4 @@
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
-  - TC39 k
+  - TC39: 🎓 known

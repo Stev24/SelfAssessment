@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-163/548/730-009933?style=flat-square)](https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-194/548/730-009933?style=flat-square)](https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-163/548/730-009933?style=flat-square)](https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-194/548/730-009933?style=flat-square)](https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-163/548/730-009933?style=flat-square"></a>
+<a href="https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-194/548/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,12 +27,12 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `0` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `5` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `38` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `14` | `19` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `9` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `4` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `8` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `56` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `6` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `12` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `5` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `3` | `18` |
@@ -69,26 +69,11 @@
 | --- | --- | --- | --- |
 | `instanceof` | 🎓 known | ⟶  | 🖐️ used |
 | `...rest` | 🎓 known | ⟶  | 🖐️ used |
-| Generators | 🤷 unknown | ⟶  | 👂 heard |
-| Iterators | 🤷 unknown | ⟶  | 👂 heard |
-| Async generator | 🤷 unknown | ⟶  | 👂 heard |
-| Async iterator | 🤷 unknown | ⟶  | 👂 heard |
-| IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| `global` | 🤷 unknown | ⟶  | 🎓 known |
-| `globalThis` | 🤷 unknown | ⟶  | 👂 heard |
-| `yield` | 🤷 unknown | ⟶  | 👂 heard |
 | Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
-| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for await` | 🤷 unknown | ⟶  | 👂 heard |
-| Functional object | 🤷 unknown | ⟶  | 👂 heard |
-| Mixins | 🤷 unknown | ⟶  | 🎓 known |
-| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
-| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
+| Mixins | 👂 heard | ⟶  | 🎓 known |
+| `Proxy` | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `52` of `72` skills, `20` to be upgraded, and `18` above needed
+Total: you have `67` of `72` skills, `5` to be upgraded, and `23` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -98,41 +83,28 @@ Total: you have `52` of `72` skills, `20` to be upgraded, and `18` above needed
 | `NaN` | 🎓 known | ⟶  | 🖐️ used |
 | `instanceof` | 🎓 known | ⟶  | 🖐️ used |
 | `...rest` | 🎓 known | ⟶  | 🖐️ used |
-| Generators | 🤷 unknown | ⟶  | 🖐️ used |
-| Iterators | 🤷 unknown | ⟶  | 🖐️ used |
-| Async generator | 🤷 unknown | ⟶  | 🖐️ used |
-| Async iterator | 🤷 unknown | ⟶  | 🖐️ used |
-| IIFE | 🤷 unknown | ⟶  | 🖐️ used |
-| Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
-| `global` | 🤷 unknown | ⟶  | 🖐️ used |
-| `globalThis` | 🤷 unknown | ⟶  | 🖐️ used |
+| Generators | 👂 heard | ⟶  | 🖐️ used |
+| Iterators | 👂 heard | ⟶  | 🖐️ used |
+| Async generator | 👂 heard | ⟶  | 🖐️ used |
+| Async iterator | 👂 heard | ⟶  | 🖐️ used |
+| `global` | 🎓 known | ⟶  | 🖐️ used |
+| `globalThis` | 🎓 known | ⟶  | 🖐️ used |
 | Getters and setters | 🎓 known | ⟶  | 🖐️ used |
-| `yield` | 🤷 unknown | ⟶  | 🖐️ used |
+| `yield` | 👂 heard | ⟶  | 🖐️ used |
 | Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
-| `delete` | 🤷 unknown | ⟶  | 🖐️ used |
-| `in` | 🤷 unknown | ⟶  | 👂 heard |
 | `static` | 🎓 known | ⟶  | 🖐️ used |
-| `Number.parseFloat` | 🤷 unknown | ⟶  | 🖐️ used |
-| Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
-| Computed properties | 🤷 unknown | ⟶  | 🎓 known |
-| Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Static class fields | 🤷 unknown | ⟶  | 🎓 known |
-| `for..in` | 🤷 unknown | ⟶  | 🎓 known |
-| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for await` | 🤷 unknown | ⟶  | 🖐️ used |
-| Functional object | 🤷 unknown | ⟶  | 👂 heard |
-| Weak collections | 🤷 unknown | ⟶  | 🎓 known |
+| `Number.parseFloat` | 👂 heard | ⟶  | 🖐️ used |
+| Property descriptors | 👂 heard | ⟶  | 🎓 known |
+| Computed properties | 👂 heard | ⟶  | 🎓 known |
+| `for await` | 👂 heard | ⟶  | 🖐️ used |
+| Weak collections | 👂 heard | ⟶  | 🎓 known |
 | Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
-| Mixins | 🤷 unknown | ⟶  | 👂 heard |
-| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
+| `Proxy` | 👂 heard | ⟶  | 🎓 known |
 | `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
 | `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
-| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `58` of `97` skills, `39` to be upgraded, and `9` above needed
+Total: you have `71` of `97` skills, `26` to be upgraded, and `12` above needed
 
 ## [Async](/Skills/Async.md)
 
