@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-194/548/730-009933?style=flat-square)](https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-195/548/730-009933?style=flat-square)](https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-194/548/730-009933?style=flat-square)](https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-195/548/730-009933?style=flat-square)](https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-194/548/730-009933?style=flat-square"></a>
+<a href="https://github.com/Stev24/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-195/548/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,7 +27,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `0` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `5` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `56` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `6` | `7` |
@@ -67,13 +67,8 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `instanceof` | 🎓 known | ⟶  | 🖐️ used |
-| `...rest` | 🎓 known | ⟶  | 🖐️ used |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| Mixins | 👂 heard | ⟶  | 🎓 known |
-| `Proxy` | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `67` of `72` skills, `5` to be upgraded, and `23` above needed
+Total: you have `72` of `72` skills, `0` to be upgraded, and `23` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -81,8 +76,6 @@ Total: you have `67` of `72` skills, `5` to be upgraded, and `23` above needed
 | `Symbol` | 🎓 known | ⟶  | 🖐️ used |
 | `Infinity` | 🎓 known | ⟶  | 🖐️ used |
 | `NaN` | 🎓 known | ⟶  | 🖐️ used |
-| `instanceof` | 🎓 known | ⟶  | 🖐️ used |
-| `...rest` | 🎓 known | ⟶  | 🖐️ used |
 | Generators | 👂 heard | ⟶  | 🖐️ used |
 | Iterators | 👂 heard | ⟶  | 🖐️ used |
 | Async generator | 👂 heard | ⟶  | 🖐️ used |
@@ -91,7 +84,6 @@ Total: you have `67` of `72` skills, `5` to be upgraded, and `23` above needed
 | `globalThis` | 🎓 known | ⟶  | 🖐️ used |
 | Getters and setters | 🎓 known | ⟶  | 🖐️ used |
 | `yield` | 👂 heard | ⟶  | 🖐️ used |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
 | `static` | 🎓 known | ⟶  | 🖐️ used |
 | `Number.parseFloat` | 👂 heard | ⟶  | 🖐️ used |
 | Property descriptors | 👂 heard | ⟶  | 🎓 known |
@@ -99,12 +91,11 @@ Total: you have `67` of `72` skills, `5` to be upgraded, and `23` above needed
 | `for await` | 👂 heard | ⟶  | 🖐️ used |
 | Weak collections | 👂 heard | ⟶  | 🎓 known |
 | Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
-| `Proxy` | 👂 heard | ⟶  | 🎓 known |
 | `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
 | `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `71` of `97` skills, `26` to be upgraded, and `12` above needed
+Total: you have `75` of `97` skills, `22` to be upgraded, and `13` above needed
 
 ## [Async](/Skills/Async.md)
 
