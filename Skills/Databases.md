@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types +
+  - Data types: 🎓 known
   - Performance tuning
-  - Migrations +
+  - Migrations: 🎓 known
   - Schema versioning
-  - Backup and recovery *
+  - Backup and recovery: 🖐️ used
   - Database scalability
   - Relational databases
-  - Key-value store *
+  - Key-value store: 🖐️ used
   - Tuple store
   - Graph databases
   - Object databases
@@ -25,8 +25,8 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Promary keys *
-  - Foreign keys *
+  - Promary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
   - Transactions
   - Views
   - Subqueries
@@ -36,54 +36,54 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` *
-  - `INSERT` *
-  - `UPDATE` * 
-  - `DELETE` *
-  - `LIMIT` * 
-  - `OFFSET` +
-  - `ORDER BY` *
-  - `GROUP BY` +
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`: 🎓 known
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🎓 known
   - `HAVING`
-  - `EXISTS` +
-  - `JOIN` +
-  - `INNER JOIN` *
-  - `LEFT JOIN` *
-  - `RIGHT JOIN` *
-  - `UNION` +
-  - `DISTINCT` +
-  - `WHERE` *
-  - `LIKE` *
-  - `IN` +
-  - `BETWEEN` *
-  - `CREATE TABLE` *
-  - `ALTER TABLE` *
-  - `DROP TABLE` *
-  - `PRIMARY KEY` *
-  - `FOREIGN KEY`*
-  - `CHECK` +
-  - `DEFAULT` +
+  - `EXISTS`: 🎓 known
+  - `JOIN`: 🎓 known
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🎓 known
+  - `DISTINCT`: 🎓 known
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🎓 known
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`: 🎓 known
+  - `DEFAULT`: 🎓 known
   - `INDEX`
-  - `UNIQUE` *
+  - `UNIQUE`: 🖐️ used
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL *
-  - Oracle +
-  - MySQL *
-  - MariaDB +
+  - PostgreSQL: 🖐️ used
+  - Oracle: 🎓 known
+  - MySQL: 🖐️ used
+  - MariaDB: 🎓 known
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB *
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
   - SQLite
   - DynamoDB
-  - Firebase *
+  - Firebase: 🖐️ used
 - Data engineering
   - Data warehousing
   - Business intelligence

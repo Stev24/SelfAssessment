@@ -39,39 +39,39 @@
   - Scalar
   - Literal
   - Expression
-  - Heap +
+  - Heap: 🎓 known
   - Function
   - Procedure
-  - Method *
-  - Class *
-  - Prototype *
-  - Event 
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
+  - Event
   - Type
   - Flag
   - Lexical scope
   - Code block
-  - Conditions *
-  - Loops *
-  - Assignment *
-  - Regular expression *
-  - Interface *
-  - Namespaces +
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 🖐️ used
+  - Interface: 🖐️ used
+  - Namespaces: 🎓 known
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case *
-  - Snake case *
-  - Kebab case +
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🎓 known
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types *
-  - Reference types *
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typeing
-  - Duck typing +
+  - Duck typing: 🎓 known
   - Static typing
   - Dynamic typing
   - Nominal typing
@@ -84,14 +84,14 @@
   - Signature
   - Argument
   - Parameter
-  - Pure function *
+  - Pure function: 🖐️ used
   - Lambda expression
   - Side effects
-  - Closure *
+  - Closure: 🖐️ used
   - Partial application
   - Currying
-  - Higher order *
-  - Recursion *
+  - Higher order: 🖐️ used
+  - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array *
+  - Array: 🖐️ used
   - Structure
   - Record
-  - Enum *
+  - Enum: 🖐️ used
   - Instance
-  - Cbject *
+  - Cbject: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -127,26 +127,26 @@
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing *
-  - JSON *
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
-  - DNS *
-  - CDN *
-  - CORS *
-  - IPv4 *
-  - IPv6 * 
+  - DNS: 🖐️ used
+  - CDN: 🖐️ used
+  - CORS: 🖐️ used
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
   - NAT
-  - URL *
+  - URL: 🖐️ used
   - URN
-  - URI *
+  - URI: 🖐️ used
 - Process and tools
-  - Compiler +
-  - Just-in-time compilation +
+  - Compiler: 🎓 known
+  - Just-in-time compilation: 🎓 known
   - Ahead-of-time compilation
-  - Transpiler *
-  - Linter *
+  - Transpiler: 🖐️ used
+  - Linter: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
@@ -161,11 +161,11 @@
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review *
+  - Code review: 🖐️ used
   - Exception
   - Unittesting
-  - git *
-  - Hithub *
+  - git: 🖐️ used
+  - Hithub: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti +
+  - Spaghetti: 🎓 known
   - Silver bullet
   - Not invented here
   - Dead code
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII +
+  - ASCII: 🎓 known
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 *
-  - ECMA *
+  - Base64: 🖐️ used
+  - ECMA: 🖐️ used
   - ICANN
   - ISO
-  - MIME *
+  - MIME: 🖐️ used
   - OWASP
-  - UTF-8 *
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
